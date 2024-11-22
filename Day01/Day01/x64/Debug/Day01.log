@@ -1,0 +1,3 @@
+﻿  DataType.cpp
+C:\Users\user\Desktop\Day01\DataType.cpp(65,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Day01.vcxproj -> C:\Users\user\Desktop\Day01\x64\Debug\Day01.exe
